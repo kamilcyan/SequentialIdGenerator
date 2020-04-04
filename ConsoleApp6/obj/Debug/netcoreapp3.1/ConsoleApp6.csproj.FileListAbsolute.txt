@@ -9,3 +9,14 @@ D:\vs19 trening\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.Asse
 D:\vs19 trening\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfo.cs
 D:\vs19 trening\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.dll
 D:\vs19 trening\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.pdb
+D:\git\SequentialIdGenerator\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.exe
+D:\git\SequentialIdGenerator\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.deps.json
+D:\git\SequentialIdGenerator\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.json
+D:\git\SequentialIdGenerator\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.dev.json
+D:\git\SequentialIdGenerator\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.dll
+D:\git\SequentialIdGenerator\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.pdb
+D:\git\SequentialIdGenerator\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.csprojAssemblyReference.cache
+D:\git\SequentialIdGenerator\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfoInputs.cache
+D:\git\SequentialIdGenerator\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfo.cs
+D:\git\SequentialIdGenerator\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.dll
+D:\git\SequentialIdGenerator\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.pdb
